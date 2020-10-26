@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/monsterfriends/static/css/main.c16a18ed.chunk.css",
-    "main.js": "/monsterfriends/static/js/main.36c47004.chunk.js",
-    "main.js.map": "/monsterfriends/static/js/main.36c47004.chunk.js.map",
-    "runtime-main.js": "/monsterfriends/static/js/runtime-main.2a12f1c4.js",
-    "runtime-main.js.map": "/monsterfriends/static/js/runtime-main.2a12f1c4.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/monsterfriends/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.23e0c026.chunk.js": "/monsterfriends/static/js/2.23e0c026.chunk.js",
-    "static/js/2.23e0c026.chunk.js.map": "/monsterfriends/static/js/2.23e0c026.chunk.js.map",
+    "main.css": "/monsterfriends/static/css/main.b246fa70.chunk.css",
+    "main.js": "/monsterfriends/static/js/main.2dc2f1eb.chunk.js",
+    "main.js.map": "/monsterfriends/static/js/main.2dc2f1eb.chunk.js.map",
+    "runtime-main.js": "/monsterfriends/static/js/runtime-main.80265637.js",
+    "runtime-main.js.map": "/monsterfriends/static/js/runtime-main.80265637.js.map",
+    "static/css/2.b97b5188.chunk.css": "/monsterfriends/static/css/2.b97b5188.chunk.css",
+    "static/js/2.2e713975.chunk.js": "/monsterfriends/static/js/2.2e713975.chunk.js",
+    "static/js/2.2e713975.chunk.js.map": "/monsterfriends/static/js/2.2e713975.chunk.js.map",
     "index.html": "/monsterfriends/index.html",
-    "precache-manifest.2dab1d0b1cfff94e9ea43c62a1e02e12.js": "/monsterfriends/precache-manifest.2dab1d0b1cfff94e9ea43c62a1e02e12.js",
-    "service-worker.js": "/monsterfriends/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/monsterfriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.c16a18ed.chunk.css.map": "/monsterfriends/static/css/main.c16a18ed.chunk.css.map",
-    "static/js/2.23e0c026.chunk.js.LICENSE.txt": "/monsterfriends/static/js/2.23e0c026.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/monsterfriends/static/media/ScaryVampire.abcb7b95.woff"
+    "static/css/2.b97b5188.chunk.css.map": "/monsterfriends/static/css/2.b97b5188.chunk.css.map",
+    "static/css/main.b246fa70.chunk.css.map": "/monsterfriends/static/css/main.b246fa70.chunk.css.map",
+    "static/js/2.2e713975.chunk.js.LICENSE.txt": "/monsterfriends/static/js/2.2e713975.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monsterfriends/static/media/ScaryVampire.54d50ef8.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a12f1c4.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.23e0c026.chunk.js",
-    "static/css/main.c16a18ed.chunk.css",
-    "static/js/main.36c47004.chunk.js"
+    "static/js/runtime-main.80265637.js",
+    "static/css/2.b97b5188.chunk.css",
+    "static/js/2.2e713975.chunk.js",
+    "static/css/main.b246fa70.chunk.css",
+    "static/js/main.2dc2f1eb.chunk.js"
   ]
 }
